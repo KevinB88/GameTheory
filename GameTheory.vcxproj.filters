@@ -21,5 +21,11 @@
     <ClCompile Include="TitForTat.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Variability.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MathQuiz.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

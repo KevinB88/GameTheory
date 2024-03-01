@@ -128,7 +128,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="GameTheory.cpp" />
+    <ClCompile Include="MathQuiz.cpp" />
     <ClCompile Include="TitForTat.cpp" />
+    <ClCompile Include="Variability.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

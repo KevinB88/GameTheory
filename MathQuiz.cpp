@@ -98,6 +98,14 @@ void gameloop() {
 	std::string question;
 
 
+	/*
+		+30 points!
+		-30 points!
+
+
+	
+	*/
+
 	while (true) {
 
 
